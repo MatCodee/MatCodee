@@ -16,17 +16,20 @@ Here are some ideas to get you started:
 -->
 
 
-## Hello, I'm SoloPython! 👋
-### I'm a software developer and educator with a passion for teaching and sharing my knowledge. I have a successful YouTube channel called SoloPython with over 118K subscribers, where I teach software development using Python, focusing on Django, Artificial Intelligence, and Ethical Hacking.
+## Key, I'm Mati! 👋
+### I am a software developer and I love low level coding.
 
 ### My Skills 💻
-- Languages: Python, C#, .NET
-- Web Development: React, Next.js, Electron
-- Game Development: Unity
+- Languages: Python, Javascript, Dart
+- Web Development: Vue3, Nuxt3, React, Electron, Tailwind 
  Frameworks: Django
+- Flask and FastApi
 - AI & ML: TensorFlow, Keras, PyTorch
 - PyPi Projects 🐍
-- Django Rest Framework API Response - Check out the best way to write APIs in django!
+- Django Rest Framework API Response 
+
+Backend as a Service: Supabase and Firebase
+## Stack: Django, Vue3 or Nuxt3, PostgreSql
 
 [YouTube](https://matcode.netlify.app/) - Subscribe to my channel!
 
