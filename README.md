@@ -31,8 +31,3 @@ Here are some ideas to get you started:
 Backend as a Service: Supabase and Firebase
 ## Stack: Django, Vue3 or Nuxt3, PostgreSql
 
-[YouTube](https://matcode.netlify.app/) - Subscribe to my channel!
-
-[Twitter](https://matcode.netlify.app/) - Follow me for updates and tips!
-
-[LinkedIn](https://matcode.netlify.app/) - Let's connect professionally!
